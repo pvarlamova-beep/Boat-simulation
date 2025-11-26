@@ -1,0 +1,5 @@
+{
+  "name": "River Crossing Physics",
+  "description": "Interactive physics simulation of a boat crossing a flowing river, demonstrating relative velocity and vector addition.",
+  "requestFramePermissions": []
+}
